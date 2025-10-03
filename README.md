@@ -12,8 +12,7 @@
 ---
 
 ## 1. Introduction
-Briefly describe your project build (1–2 paragraphs).  
-Mention: target use case (e.g., general-purpose desktop, gaming, programming, data science, etc.) and budget constraint.
+This project describes the design and sourcing of a custom high-performance desktop PC. A demanding 1440p High Refresh Rate workstation for gaming and content creation is our target use case. The Zen 5-based Ryzen 7 9700X processor and 32GB of fast DDR5 memory allow this system to run the newest AAA games at high settings with features like DLSS 4.0 and Ray Tracing, while still offering enough processing power for demanding tasks like video editing, 3D rendering, and multi-tasking.
 
 ---
 
@@ -49,11 +48,11 @@ Google spreadsheet link: [link](https://docs.google.com/spreadsheets/d/1MIJwYtZq
 | CPU Cooler | NZXT Kraken 240 Black w/ Monitoring LCD Liquid Cooler | [DYNAQUEST](https://dynaquestpc.com/collections/cooling-solutions/products/nzxt-kraken-240-black-w-monitoring-lcd-liquid-cooler-rl-kn240-b1) | 5,970.00 | Good CPU Cooler that allows for temperature monitoring. |
 | Motherboard | MSI PRO B650M-A WIFI DDR5 | [DYNAQUEST](https://dynaquestpc.com/collections/motherboard-socket-tr4/products/msi-pro-b650m-a-wifi-ddr5-am5-motherboard) | 8,995.00 | Good Budget Motherboard that can accommodate all of the parts and has good future proofing with good QoL features such as IO and Wifi. |
 | RAM | G.Skill Flare X5 32GB (2x16GB) DDR5 6000MT/s RAM | [DYNAQUEST](https://dynaquestpc.com/collections/components-memory-lodimm/products/g-skill-flare-x5-32gb-2x16gb-ddr5-6000mt-s-ram-desktop-memory-black-kit-of-2-f5-6000j323-8f16gx2-fx5) | 7,315.00 | 32GB is a good safety margin for multitasking and handling AAA games with good stability + high quality. |
-| Storage 1 (SSD) | Samsung 990 Evo Plus M.2 2TB NVME PCIe 4.0 SSD | [DYNAQUEST](https://dynaquestpc.com/products/samsung-990-evo-plus-m-2-2tb-nvme-pcie-4-0-ssd-mz-v9s2t0bw) | 8,890.00 | 2TB with a transfer rate of 6 to 7.3GBs is good enough especially since this will be the boot drive. |
+| Storage 1 (SSD) | Samsung 990 Evo Plus M.2 2TB NVME PCIe 4.0 SSD | [DYNAQUEST](https://dynaquestpc.com/products/samsung-990-evo-plus-m-2-2tb-nvme-pcie-4-0-ssd-mz-v9s2t0bw) | 8,890.00 | 2TB with a transfer rate of 6 to 7.3 GB/s is good enough, especially since this will be the boot drive. |
 | Storage 2 (HDD) | Seagate 4TB Barracuda ST4000DM004 256mb 5400rpm Hard Drive | [DYNAQUEST](https://dynaquestpc.com/collections/desktop-3-5/products/seagate-4tb-barracuda-st4000dm005) | 5,740.00 | 4TB HDD is good enough for general storage with a transfer rate of 256 mb/s. |
-| Graphics Card | Inno3D RTX 5070 Twin X2 12GB GDDR7 | [DYNAQUEST](https://dynaquestpc.com/collections/nvidia/products/inno3d-rtx-5070-twin-x2-12gb-gddr7-sff-n50702-12d7-195064n-graphics-card) | 37,980.00 | 50 gen of RTX cards allows for better longevity and support from NVIDIA. It has the best capabilities for its price range including its 4X Frame generation. |
+| Graphics Card | Inno3D RTX 5070 Twin X2 12GB GDDR7 | [DYNAQUEST](https://dynaquestpc.com/collections/nvidia/products/inno3d-rtx-5070-twin-x2-12gb-gddr7-sff-n50702-12d7-195064n-graphics-card) | 37,980.00 | 50 gen of RTX cards allows for better longevity and support from NVIDIA. It has the best capabilities for its price range, including its 4X Frame generation. |
 | Power Supply | MSI MAG A750GL PCIE5 750Watts 80+ GOLD Full Modular PSU | [DYNAQUEST](https://dynaquestpc.com/collections/components-power-supply-700-900-watts/products/msi-mag-a750gl-pcie5-750watts-80-gold-full-modular-psu) | 5,295.00 | 750W is the best rated wattage for the 5070 and the 9700x. The gold certification ensures the quality of the PSU and its longevity. |
-| Case | Antec CX800 Wood aRGB TG ATX dual chamber Case with 4x120mm USB3 1C 1A | [DYNAQUEST](https://dynaquestpc.com/collections/chassis-mid-tower/products/antec-cx800-wood-argb-tg-atx-dual-chamber-case-with-4x120mm-usb3-1c-1a) | 3,995.00 | The case has a dual chamber design that allows for better cable management and airflow. |
+| Case | Antec CX800 Wood aRGB TG ATX dual chamber Case with 4x120mm USB3 1C 1A | [DYNAQUEST](https://dynaquestpc.com/collections/chassis-mid-tower/products/antec-cx800-wood-argb-tg-atx-dual-chamber-case-with-4x120mm-usb3-1c-1a) | 3,995.00 | The case has a dual-chamber design that allows for better cable management and airflow. |
 | Case Fans | | | | Included with Case |
 | **TOTAL** | | | **100,750.00** | |
 
@@ -70,10 +69,9 @@ Example:
 ---
 
 ## 5. Budget Analysis
-- **Budget Limit**: ₱100,000 (With +5% allowance)
-- **Final Total**: ₱100,750  
-- ✅ Within budget / ❌ Over budget  
-- Notes on trade-offs (e.g., cheaper RAM, higher PSU wattage, no aftermarket cooler, etc.).
+**Budget Limit**: ₱100,000 (With +5% allowance)
+**Final Total**: ₱100,750  
+✅ Within budget
 
 ---
 
@@ -84,11 +82,12 @@ Reflections on:
 - What the group learned about PC components and system design  
 
 ---
+
 ## 7. Video pitch
-- [Your video link here  ](https://www.youtube.com/watch?v=LESu67KkLdY)
+[Your video link here](https://www.youtube.com/watch?v=LESu67KkLdY)
 
 ## 8. References
-- Vendor links (PCX, VillMan, etc.)  
-- PCPartPicker build link  
-- Any technical documentation consulted  
+Vendor link: [DYNAQUEST](https://dynaquestpc.com)
+PCPartPicker: [link](https://pcpartpicker.com/list/2csz4p)
+
 
