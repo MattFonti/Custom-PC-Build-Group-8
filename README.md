@@ -60,11 +60,12 @@ Google spreadsheet link: [link](https://docs.google.com/spreadsheets/d/1MIJwYtZq
 ---
 
 ## 4. Compatibility Justification
-For each part, explain compatibility and choices.  
-Example:  
-- **CPU + Motherboard**: Intel i5-13400F (LGA1700) works with ASUS B760M board (LGA1700 socket, BIOS compatible).  
-- **RAM**: DDR5 RAM supported by motherboard slots (up to 128GB).  
-- **GPU**: NVIDIA RTX 3060 fits case, PSU wattage sufficient.  
+**CPU (Ryzen 7 9700X) + Motherboard (MSI PRO B650M-A WIFI):** The 9700X is an AM5 processor that can be used with the B650M motherboard's AM5 socket. The Micro ATX board is compatible with the case.
+**RAM (G.Skill Flare X5 32 GB DDR5-6000) + CPU/Motherboard:** AM5 needs DDR5. AMD EXPO guarantees steady performance, and the 6000 MT/s speed is ideal.
+**Graphics Card (Inno3D RTX 5070) + Case:** The Inno3D RTX 5070 graphics card and case fit into a typical PCIe x16 slot. The Antec CX800 Mid Tower case accommodates the small dual-slot design.
+**Power Supply (MSI MAG A750GL PCIE5 750 W) + System:** 750W 80+ Gold offers a secure power buffer. It has a native 16-pin PCIe 5.1 connector for the RTX 5070 and is ATX 3.1 compatible.
+**CPU Cooler (NZXT Kraken 240) + Case:** The Antec CX800 top exhaust position is ideal for the 240mm AIO.
+**Storage (Samsung 990 EVO Plus 2TB SSD + Seagate 4TB HDD):** The HDD fits case drive cages and uses standard SATA III, while the NVMe SSD uses the M.2 slot.
 
 ---
 
@@ -76,10 +77,19 @@ Example:
 ---
 
 ## 6. Conclusion & Learnings
-Reflections on:  
-- Price differences (international vs. Manila vendors)  
-- Challenges in finding stock or cheaper equivalents  
-- What the group learned about PC components and system design  
+
+**Price Differences (International vs. Manila Vendors)**
+Without accounting for the cost of the case, the PCPartPicker draft total came to $1783.37 (US pricing). This can be converted directly to ₱103,307.25, using an approximate exchange. The Manila vendor, Dynaquest, charged ₱100,750.00 as the final local price.
+
+The local vendor's price was surprisingly a little less than the converted US price. This is uncommon because import taxes, duties, and shipping logistics frequently result in components in the Philippines being more expensive. According to this research, local distributors or vendors may establish competitive launch prices for new, next-generation components in order to closely match global MSRPs, or the US price listed on PCPartPicker might have included a small retailer markup.
+
+**Sourcing Difficulties and Equivalents**
+Simulating the purchase of next-generation, unreleased parts (Ryzen 7 9700X and RTX 5070) was the main challenge. Since these prices are estimates, we must presume instant availability.  We would have to deal with serious stock shortages and possibly resale pricing in a real-world situation. Since high-volume retailers frequently carry more common models, it is often necessary to check only a few specialized vendors for rare components to find specific aesthetics (such as the Antec CX800 Wood ARGB case). This particular case model's local availability was confirmed when we were able to locate a local listing for it at Dynaquest.
+
+**Learnings on PC Components and System Design**
+  Future-Proofing is Crucial: To optimize the upgrade path and system longevity, we gave top priority to the AM5 platform and PCIe 5.0 compatibility (SSD, GPU, and PSU).
+  The Power Budget: We discovered that the Power Supply Unit's (PSU) vital function extends beyond its wattage.  To safely power high-end NVIDIA cards and ensure stability under load, an 80+ Gold, 750W, ATX 3.1 PSU with a native 16-pin PCIe 5.1 connector is required.
+  Performance Sweet Spot: We verified that sensible memory selection is equally as important as CPU/GPU selection for optimizing gaming and application performance by investigating the best DDR5-6000 CL30 RAM and AMD EXPO pairing for the Ryzen 7000/9000 series.
 
 ---
 
