@@ -70,8 +70,8 @@ Example:
 ---
 
 ## 5. Budget Analysis
-- **Budget Limit**: ₱XX,000  
-- **Final Total**: ₱XX,000  
+- **Budget Limit**: ₱100,000 (With +5% allowance)
+- **Final Total**: ₱100,750  
 - ✅ Within budget / ❌ Over budget  
 - Notes on trade-offs (e.g., cheaper RAM, higher PSU wattage, no aftermarket cooler, etc.).
 
@@ -85,7 +85,7 @@ Reflections on:
 
 ---
 ## 7. Video pitch
-- Your video link here  
+- [Your video link here  ](https://www.youtube.com/watch?v=LESu67KkLdY)
 
 ## 8. References
 - Vendor links (PCX, VillMan, etc.)  
