@@ -97,5 +97,5 @@ Simulating the purchase of next-generation, unreleased parts (Ryzen 7 9700X and 
 [Your video link here](https://www.youtube.com/watch?v=LESu67KkLdY)
 
 ## 8. References
-Vendor link: [DYNAQUEST](https://dynaquestpc.com
+Vendor link: [DYNAQUEST](https://dynaquestpc.com)
 PCPartPicker: [link](https://pcpartpicker.com/list/2csz4p)
